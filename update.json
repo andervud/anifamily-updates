@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "0.3.1",
-  "notes": "Доступно обновление AniFamily 0.3.1",
+  "versionCode": 5,
+  "versionName": "0.3.2",
+  "notes": "Доступно обновление AniFamily 0.3.2",
   "mobile": {
     "url": "https://raw.githubusercontent.com/andervud/anifamily-updates/main/anifamily-mobile.apk",
-    "sha256": "874a5d6576d9b8c4b46c286329fdba2466f856b2f9b5aec25378fc380fab8a1e"
+    "sha256": "d75a9994fadba43346a946d60f14c800eaa7c00d1274e086936f9000ec9125b0"
   },
   "tv": {
     "url": "https://raw.githubusercontent.com/andervud/anifamily-updates/main/anifamily-tv.apk",
-    "sha256": "592d9cb64ce63b227052e46125ecaa1a1c01dfb2138154be7230e81cabaa3275"
+    "sha256": "c684c5338019f04e312ac4b7107ba8c16a30dbc0355116573863a6c49c668578"
   }
 }
